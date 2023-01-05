@@ -1,5 +1,5 @@
    public void logowanie() {
-        System.out.println("Podajnazwe uzytkownika");
+        System.out.println("Podajnazwe uzytkownika- 5 znakow);
         System.out.println("Podaj hasło");
         System.out.println("Kliknij na przycisk zaloguj");
     }
