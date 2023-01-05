@@ -3,4 +3,8 @@
         System.out.println("Podaj hasło");
         System.out.println("Kliknij na przycisk zaloguj");
     }
-ggthb
+   public void logowanie() {
+        System.out.println("Podajnazwe uzytkownika- 10 znakow);
+        System.out.println("Podaj hasło");
+        System.out.println("Kliknij na przycisk zaloguj");
+    }
