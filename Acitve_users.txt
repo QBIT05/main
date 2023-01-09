@@ -1,0 +1,4 @@
+IdUser
+IsActive
+Name
+Role
