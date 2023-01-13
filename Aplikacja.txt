@@ -3,21 +3,3 @@
         System.out.println("Podaj hasło");
         System.out.println("Kliknij na przycisk zaloguj");
     }
-   public void logowanie() {
-        System.out.println("Podajnazwe uzytkownika- 10 znakow);
-        System.out.println("Podaj hasło");
-        System.out.println("Kliknij na przycisk zaloguj");
-    }
-dla drugiego brancha
-   public void logowanie() {
-        System.out.println("Podajnazwe uzytkownika- 5 znakow);
-        System.out.println("Podaj hasło");
-        System.out.println("Kliknij na przycisk zaloguj");
-    }
-   public void logowanie() {
-        System.out.println("Podajnazwe uzytkownika- 10 znakow);
-        System.out.println("Podaj hasło");
-        System.out.println("Kliknij na przycisk zaloguj");
-    }
-dla drugiego brancha
-
